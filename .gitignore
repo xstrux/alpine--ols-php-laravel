@@ -1,0 +1,4 @@
+.elasticbeanstalk
+.idea
+build-image.sh
+laravel
